@@ -2,7 +2,7 @@
 
 ## Unidad 1: 
 
-[Ver actividad 1 »](ud1/readme.md)
+[Ver actividad 1 »](UD1/readme.md)
 
 ---
 
