@@ -6,19 +6,19 @@
 
 ---
 
-## Actividad 2: 
+## Unidad 2: 
 
 [Ver actividad 2 »](./actividad2.md)
 
 ---
 
-## Actividad 3: 
+## Unidad 3: 
 
 [Ver actividad 3 »](./actividad3.md)
 
 ---
 
-## Actividad 4: 
+## Unidad 4: 
 
 [Ver actividad 4 »](./actividad4.md)
 
